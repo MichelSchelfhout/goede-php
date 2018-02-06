@@ -1,0 +1,37 @@
+body{
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 70px;
+}
+
+p{
+    left: 200px;
+    margin: 0 auto;
+    width: 476px;
+    margin-top: 300px;
+
+}
+
+
+.morning{
+    background-image: url("../img/morning.png");
+    background-size: cover;
+
+}
+
+.afternoon{
+    background-image: url("../img/afternoon.png");
+    background-size: cover;
+}
+
+
+.evening{
+    background-image: url("../img/evening.png");
+    background-size: cover;
+}
+
+.night{
+    background-image: url("../img/night.png");
+    background-size: cover;
+
+}
