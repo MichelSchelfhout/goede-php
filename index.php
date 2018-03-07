@@ -1,9 +1,6 @@
 
-	<?php
-
-	// Tijdzone // 
-
-	date_default_timezone_set('europe/amsterdam');
+<?php
+        date_default_timezone_set('europe/amsterdam');
         $morning = 6;
         $afternoon = 12;
         $evening = 18;
@@ -37,7 +34,6 @@
     <title>Goede</title>
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
-    <meta charset="utf-8">
 </head>
 <body class="<?=$class?>">
 
